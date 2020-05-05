@@ -65,14 +65,7 @@ Output
 
 Since thre are variable number of cases, we will feed the input to the program.
 
-$python MaxFightsWin.py < testcase10K.txt
-
-.
-
-.
-
-.
-
+$python MaxFightsWin.py < testcase880.txt
 .
 
 9
