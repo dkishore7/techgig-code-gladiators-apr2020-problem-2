@@ -86,3 +86,6 @@ Time taken to process all testcases : 0.4771204
 
 Total Time Taken : 0.5343465999999999
 
+To Compare Approaches directly run cells in Compare-Approaches-With-Million-Items.ipynb
+
+Have created what I would call a window search algorithm to not repeat looking into elements that have already been compared.
