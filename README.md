@@ -1,5 +1,6 @@
 # techgig-code-gladiators-apr2020-problem-2
 Beyblade World Championship (100 Marks)
+
 Tyson is all prepared for the Beyblade World Championship. The tournament is team-based and each team can have N members. A player can fight against a single player only. Team G-Revolution is all excited and pumped up as they have practised a lot. Kenny, the mind of team G-Revolution, has created a database where he has the data about the power of other teams’ members and his own team members. The tournament is going to start in some time and Kenny moves to the cafeteria to have a snack before the competition.
 
  
