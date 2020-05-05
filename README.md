@@ -49,10 +49,17 @@ For each test case, print the maximum number of fights Team G-Revolution can win
 
 
 Sample TestCase 1
+
 Input
+
 1
+
 10
+
 3 6 7 5 3 5 6 2 9 1 
+
 2 7 0 9 3 6 0 6 2 6 
+
 Output
+
 7
