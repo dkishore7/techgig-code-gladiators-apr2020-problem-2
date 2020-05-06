@@ -86,6 +86,10 @@ Time taken to process all testcases : 0.4771204
 
 Total Time Taken : 0.5343465999999999
 
+=========================
+
+I tested a few approaches and it seems for solving time complexity you would need to figure a way to not repeat looking into elements that have already been considered. For this I have created an approach that I would like to call 'window search algorithm'. A window slider is maintained to fence the boundaries for searches everytime a successful search is completed.
+
 To Compare Approaches directly run cells in Compare-Approaches-With-Million-Items.ipynb
 
-Have created what I would call a window search algorithm to not repeat looking into elements that have already been compared.
+==========================
